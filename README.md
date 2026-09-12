@@ -1,4 +1,18 @@
-# MavLab — Hyper-V NAT & Virtual Network
+# The Roads
+
+> **The roads and bridges that carry traffic through The Realm.**
+
+The Roads is The Realm's networking repository. It documents how systems connect, how traffic moves, and how virtual, on-premises, and cloud networks are built and secured.
+
+Its current work includes the MavLab Hyper-V NAT network on `172.16.10.0/24`, Azure networking scripts, subnet design, and network security configuration.
+
+## Evolution
+
+The Roads will evolve from individual network build notes into a coherent connectivity map: authoritative addressing plans, traffic flows, routing and DNS dependencies, security boundaries, and repeatable infrastructure changes across the on-premises lab and Azure.
+
+---
+
+## MavLab — Hyper-V NAT & Virtual Network
 
 ## Overview
 
